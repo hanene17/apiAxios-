@@ -63,7 +63,7 @@ const ListUsers = () => {
          >
           </ReactBootSTRAP.Spinner>
           <br/> <br/>
-          <h2>Loading ...</h2>
+          <h1>Loading ...</h1>
           </div>
          } 
 <div className='container-fluid mt-5'>
