@@ -1,0 +1,26 @@
+h1 {
+    font-size: 7rem;
+    text-transform: capitalize;
+  }
+  h2{
+    font-size: 7rem;
+    text-align: center;
+    margin-left:46.5rem;
+  }
+  
+  .userStyle {
+    min-width: 20rem;
+    width: 45rem;
+    padding: 2rem 2rem;
+    background-color:hsl(32, 82%, 48%);
+    color: #64062d;
+    border-radius: 5rem;
+    box-shadow: 0rem 1rem 1rem -1.5rem rgba(0, 0, 0, 0.5);
+    margin-top: 2rem;
+    text-align: center;
+    margin-left:26rem; 
+    font-weight: 900;
+   
+  
+    
+  }
